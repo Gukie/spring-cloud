@@ -1,0 +1,3 @@
+com\demo\service\bean\ServiceBean.class
+com\demo\service\consumer\FeignConsumer.class
+com\demo\service\client\EurekaServiceClient.class
